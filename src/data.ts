@@ -3,7 +3,7 @@ export const resumeUrl = './Osan_Karki_Resume.pdf'
 
 export const socials = [
   { label: 'GitHub', href: 'https://github.com/osankarki' },
-  { label: 'LinkedIn', href: 'https://www.linkedin.com/in/osan-karki' },
+  { label: 'LinkedIn', href: 'https://www.linkedin.com/in/osan-karki-399b31244/' },
 ]
 
 export const navItems = [
